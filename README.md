@@ -1,2 +1,0 @@
-# HTML
-file:///data/user/0/com.vivo.browser/files/private/embedded_engineer_roadmap.html
